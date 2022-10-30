@@ -1,0 +1,7 @@
+1. Crear un modulo de matemáticas y se importa en el index (suma, resta, multiplicacion, división, factorial y añadir funciones a gusto)
+
+2.bcryp module, Hacer un modulo llamado util.js, hacer funcion que reciba string y lo convierta en un hash
+    hacerlo asíncrono (encriptarla), function hash(passwd)
+    Funcion para comparar: recibe el hash encriptado y la passwd normal, debe devolver si es valida o no.
+
+3. Colors module, function(text, color)
